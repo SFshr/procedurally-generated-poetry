@@ -1,4 +1,4 @@
-# procedurally-generated-poetry
+# Procedurally Generated Poetry
 
 Possibly the most overengineered way to generate lines of nonsense. 
 
@@ -6,13 +6,13 @@ This project uses Markov chains and constraints derived from the Gutenberg Poetr
 
 ## Example Outputs
 
-wide the love not thus half rounding
+> wide the love not thus half rounding
 
-his to boast to my dreamd us
+> his to boast to my dreamd us
 
-destruction doom of the still good for in at night
+> destruction doom of the still good for in at night
 
-queen to our worth in show thee low
+> queen to our worth in show thee low
 
 ## How It Works
 
